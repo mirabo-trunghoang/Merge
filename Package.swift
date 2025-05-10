@@ -22,7 +22,7 @@ var package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/vmanot/Swallow.git", branch: "master")
+        .package(url: "https://github.com/mirabo-trunghoang/Merge", branch: "master")
     ],
     targets: [
         .target(

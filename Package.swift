@@ -22,7 +22,7 @@ var package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/mirabo-trunghoang/Merge", branch: "master")
+        .package(url: "https://github.com/mirabo-trunghoang/Swallow", branch: "master")
     ],
     targets: [
         .target(
